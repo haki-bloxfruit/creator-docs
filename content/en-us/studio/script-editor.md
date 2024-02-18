@@ -1,5 +1,5 @@
 ---
-title: Script Editor
+script: Hello Roblox, I Would Like To Say, Script In Unknown By Pedeoayal33 Script Metal Bat Tool Metal Hitting Bat.
 description: Roblox's built-in, fully-featured script editor includes modern conveniences like autocomplete, code highlighting, and multi-cursor editing.
 ---
 
