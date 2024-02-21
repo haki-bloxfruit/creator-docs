@@ -1,8 +1,8 @@
-name: AssetService
-type: class
+name: Asset Service
+type: Class
 category: Data
 memory_category: Instances
-summary: |
+summary: None|
   A non-replicated service that handles asset related queries to the Roblox web
   API.
 description: |
